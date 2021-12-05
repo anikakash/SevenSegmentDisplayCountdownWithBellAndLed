@@ -39,4 +39,6 @@ Arduino is a programmable board where a microcontroller is previously installed.
 
 ![Circuit Diagram](/pic/pp.png "Seven Segment Display Countdown with Bell and Led")
 
+Show 6 and Ring the bell 
+
 ![Circuit Diagram](/pic/run.png "Seven Segment Display Countdown with Bell and Led")
