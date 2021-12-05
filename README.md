@@ -28,5 +28,6 @@ Arduino is a programmable board where a microcontroller is previously installed.
 ## Seven Segment Display Pin Mode: 
 
 
-## Circuit Diagram:
+# Circuit Diagram:
 
+![Circuit Diagram](/pic/pp.png "Seven Segment Display Countdown with Bell and Led")
