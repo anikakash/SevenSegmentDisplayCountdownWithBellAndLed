@@ -27,6 +27,13 @@ Let’s Understand Breadboard Connection to see the below picture
 Arduino is a programmable board where a microcontroller is previously installed. It can take input and output via its pin. Basically, there are three types of pins: Digital pin, Analog Pin and Power Pin.
 ## Seven Segment Display Pin Mode: 
 
+# Display PIN Intro
+![seven-segment](/pic/7-segment.png "Seven Segment Display")
+
+# PIN Usages
+
+![PIN Descriptions](/pic/connection.png "Seven Segment Display Countdown with Bell and Led")
+
 
 # Circuit Diagram:
 
